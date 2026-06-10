@@ -9,7 +9,7 @@
 <table>
     <tr>
         <td align="center">
-            <img src="./images/ai-for-finance.jpg" width="180"><br>
+            <img src="./images/ai-for-finance/cover.jpg" width="180"><br>
             <b>금융 AI의 이해</b>
         </td>
         <td align="center">
