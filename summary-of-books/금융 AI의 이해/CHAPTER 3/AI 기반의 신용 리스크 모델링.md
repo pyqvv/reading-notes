@@ -215,7 +215,7 @@
 
 ## 3.6 신용 평가 모델 개발을 위한 사전 지식
 
-<img width="370" height="66" alt="image" src="../../../images/ai-for-finance/image.png"/>
+<img width="370" height="66" alt="image" src="../../../images/ai-for-finance/data-analysis-time-window.png"/>
 
 ### 3.6.1 연체 기간
 
