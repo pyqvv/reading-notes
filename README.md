@@ -13,8 +13,8 @@
             <b>금융 AI의 이해</b>
         </td>
         <td align="center">
-            <img><br>
-            <b></b>
+            <img src="./images/fintech-powerhouse/cover.jpg" width="180"><br>
+            <b>핀테크가 강한 나라</b>
         </td>
         <td align="center">
             <img><br>
